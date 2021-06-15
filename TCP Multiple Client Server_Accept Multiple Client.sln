@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP Multiple Client Server_Accept Multiple Client", "TCP Multiple Client Server_Accept Multiple Client\TCP Multiple Client Server_Accept Multiple Client.csproj", "{A845597E-368F-430B-9AEC-97BF744FBB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A845597E-368F-430B-9AEC-97BF744FBB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A845597E-368F-430B-9AEC-97BF744FBB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A845597E-368F-430B-9AEC-97BF744FBB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A845597E-368F-430B-9AEC-97BF744FBB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05147C98-AE0E-438F-848A-64FAF7092967}
+	EndGlobalSection
+EndGlobal
